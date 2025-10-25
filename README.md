@@ -2,6 +2,10 @@
 
 Weight loss tracking application for multiple participants with data analysis and visualization.
 
+## Live Demo
+
+View the dashboard: **https://deye.github.io/BiggestLooserChnEdition/**
+
 ## Features
 
 - CSV-based data storage for easy tracking
@@ -15,7 +19,7 @@ Weight loss tracking application for multiple participants with data analysis an
 
 - `Looser.ipynb` - Main Jupyter notebook with analysis and visualizations
 - `looser_data.csv` - Data storage for participant measurements
-- `weight_loss_dashboard.html` - Generated HTML dashboard (view in browser)
+- `index.html` - Generated HTML dashboard (view in browser or GitHub Pages)
 - `.claude.md` - Project documentation and schema
 
 ## Getting Started
@@ -41,9 +45,9 @@ pip install pandas numpy matplotlib seaborn jupyter
    jupyter notebook Looser.ipynb
    ```
 
-3. **Generate dashboard** by running all cells - creates `weight_loss_dashboard.html`
+3. **Generate dashboard** by running all cells - creates `index.html`
 
-4. **View results** by opening the HTML file in any web browser
+4. **View results** by opening the HTML file in any web browser or via GitHub Pages
 
 ## Data Schema
 
