@@ -43,3 +43,4 @@ wheels/
 # Output files (keep the HTML dashboard in repo)
 # Uncomment if you don't want to track the HTML output:
 # *.html
+looser_data.csv.zip
